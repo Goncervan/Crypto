@@ -2,6 +2,9 @@ import axios from 'axios';
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import Coin from './Coin'
+import dotenv from 'dotenv'
+dotenv.config();
+
 function App() {
 
   const [cryptos, setCryptos] = useState([])
