@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//github.com/Goncervan/Crypto/static/css/main.54bb0db5.css",
-    "main.js": "//github.com/Goncervan/Crypto/static/js/main.87b3ef97.js",
-    "index.html": "//github.com/Goncervan/Crypto/index.html",
-    "main.54bb0db5.css.map": "//github.com/Goncervan/Crypto/static/css/main.54bb0db5.css.map",
-    "main.87b3ef97.js.map": "//github.com/Goncervan/Crypto/static/js/main.87b3ef97.js.map"
+    "main.css": "/Goncervan/Crypto/static/css/main.54bb0db5.css",
+    "main.js": "/Goncervan/Crypto/static/js/main.87b3ef97.js",
+    "index.html": "/Goncervan/Crypto/index.html",
+    "main.54bb0db5.css.map": "/Goncervan/Crypto/static/css/main.54bb0db5.css.map",
+    "main.87b3ef97.js.map": "/Goncervan/Crypto/static/js/main.87b3ef97.js.map"
   },
   "entrypoints": [
     "static/css/main.54bb0db5.css",
